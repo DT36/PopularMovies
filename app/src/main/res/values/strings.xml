@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">PopularMovies</string>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_detail">Movie</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Popular</string>
+    <string name="show_network_error_message">Connection failed! Check network settings in your phone.</string>
+    <string name="movie_summary">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum .</string>
+    <string name="title">Lorem ipsum</string>
+    <string name="rating">Rating:</string>
+    <string name="rating_value">5.0</string>
+    <string name="release_date">Release Date:</string>
+    <string name="release_date_value">Nov 9 2020</string>
+    <string name="summary">Summary:</string>
+    <string name="image">Image</string>
+    <string name="menu">Menu</string>
+    <string name="movie_poster">Movie poster</string>
+
 </resources>
